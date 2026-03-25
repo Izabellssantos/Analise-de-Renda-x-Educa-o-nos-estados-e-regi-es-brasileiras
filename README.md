@@ -1,7 +1,18 @@
-# 📊 Análise de Renda e Educação no Brasil
+# 📊 Análise de Renda x Educação no Brasil
 
-## 📌 Contexto
-Este projeto analisa a relação entre renda e educação nos estados e regiões brasileiras.
+Este projeto tem como objetivo analisar a relação entre os níveis de renda e educação nos estados e regiões brasileiras, a partir de dados socioeconômicos estruturados.
+A análise foi desenvolvida por meio de tabelas dinâmicas e visualizações em dashboard, permitindo identificar padrões, desigualdades regionais e possíveis correlações entre os indicadores.
+Entre os principais insights, destaca-se a concentração de melhores desempenhos nas regiões Sul e Sudeste, além da identificação do Distrito Federal como um ponto fora da curva (outlier), influenciando os resultados da região Centro-Oeste.
+Este projeto demonstra habilidades em análise de dados, organização de informações, construção de dashboards e interpretação de indicadores socioeconômicos.
+
+---
+
+## 🎯 Objetivo da Análise
+
+- Comparar os indicadores de renda e educação entre estados  
+- Identificar padrões regionais  
+- Detectar desigualdades socioeconômicas  
+- Apoiar interpretações baseadas em dados  
 
 ## 📊 Dashboard
 
@@ -70,3 +81,9 @@ Por fim, os resultados reforçam a importância de análises regionais para comp
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## ⚙️ Metodologia
+
+- Utilização de tabelas dinâmicas para agregação dos dados  
+- Cálculo de médias dos indicadores por estado e região  
+- Análise comparativa entre renda e educação  
+- Identificação de padrões, tendências e possíveis outliers  
