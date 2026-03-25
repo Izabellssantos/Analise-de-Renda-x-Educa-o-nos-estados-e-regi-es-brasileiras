@@ -1,0 +1,1 @@
+# Analise-de-Renda-x-Educa-o-nos-estados-e-regi-es-brasileiras
